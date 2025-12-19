@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1 style="font-size:36px;">Anshul Rawat</h1>
+<h1 style="font-size:38px; font-weight:700;">Anshul Rawat</h1>
 
-<p style="font-size:18px; color:#6b7280;">
-Clean Code · Scalable Systems · Modern Web
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Systems+%7C+Modern+Web" />
+
+<br/>
 
 <p>
   <a href="https://linkedin.com/in/anshul-rawat">
@@ -19,17 +19,19 @@ Clean Code · Scalable Systems · Modern Web
 
 <br/>
 
-<div style="max-width:720px; margin:auto; font-size:16px; line-height:1.7;">
+<div style="max-width:760px; margin:auto; font-size:17px; line-height:1.75;">
 
-## About
+## About Me
 
 Full Stack Developer with **hands-on industry experience** building  
-**production-grade web applications**.
+**production-grade, scalable web applications**.
 
-Focused on:
-- Scalable frontend architectures  
-- FastAPI-based backend systems  
-- Database performance & clean UI  
+Experienced in designing **modern React interfaces**, developing  
+**FastAPI-based backend systems**, and optimizing **PostgreSQL databases**  
+for performance, reliability, and maintainability.
+
+Strong focus on **clean code**, **scalable architecture**, and  
+**real-world problem solving** in Agile environments.
 
 📍 Faridabad, India
 
@@ -37,14 +39,14 @@ Focused on:
 
 ## Tech Stack
 
-**Frontend**  
-React · JavaScript (ES6+) · HTML · CSS · Tailwind  
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
-**Backend**  
-Python · FastAPI · REST APIs  
+### Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 
-**Database & DevOps**  
-PostgreSQL · MySQL · Docker · Git · GitHub  
+### Database & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github" />
 
 ---
 
@@ -53,10 +55,10 @@ PostgreSQL · MySQL · Docker · Git · GitHub
 **Full Stack Developer Intern — SGSN Associates**  
 _Aug 2025 – Nov 2025_
 
-- Built 3 production-ready React applications  
-- Created reusable component systems  
-- Developed & optimized FastAPI backends  
-- Improved DB performance & Dockerized services  
+- Delivered **3 production-ready web applications** using React & Tailwind  
+- Built reusable component systems improving development speed  
+- Developed and optimized **FastAPI REST APIs**  
+- Improved database performance and Dockerized backend services  
 
 ---
 
@@ -65,8 +67,8 @@ _Aug 2025 – Nov 2025_
 - **SwipeNRise** — Responsive React website  
   https://swipenrise.com  
 
-- **FastAPI Web Accelerator** — Async backend with caching  
+- **FastAPI Web Accelerator** — High-performance async backend with caching  
 
-- **Snake Game** — JavaScript-based browser game  
+- **Snake Game** — JavaScript-based browser game with optimized rendering  
 
 </div>
