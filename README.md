@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <a href="https://linkedin.com/in/anshul-rawat">
+  <a href="https://www.linkedin.com/in/anshul-rawat-235019290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anshulrawat5124@gmail.com">
